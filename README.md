@@ -1,2 +1,3 @@
 # minimal-flask-jinja
-A small project maded with Python+Flask+Jinja+MariaDB
+
+#### A small web project maded with Python. Backend: BackFlask/Jinja/MariaDB/Sentry. Front End: Bootstrap
